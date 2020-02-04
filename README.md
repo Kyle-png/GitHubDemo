@@ -1,2 +1,0 @@
-# GitHubDemo
-Simple Java Program
